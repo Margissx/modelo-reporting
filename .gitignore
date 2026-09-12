@@ -1,0 +1,7 @@
+# Archivos locales de PostgreSQL y herramientas de desarrollo
+.env
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
